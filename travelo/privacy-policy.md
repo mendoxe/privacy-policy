@@ -1,6 +1,6 @@
 # Travelo Privacy Policy
 
-Last updated: 2 November 2026
+Last updated: 4 November 2026
 
 Travelo is a travel tracker for iOS and Android. It keeps your map, labels and trips on your device. There is no
 Travelo account and no Travelo server.
@@ -14,7 +14,7 @@ Travelo account and no Travelo server.
 
 ## Who is responsible
 
-Travelo is made by an individual developer who publishes as mendoxe. The developer is responsible for the
+Travelo is made by an individual developer who publishes as mendox. The developer is responsible for the
 processing described here and can be reached at
 [42dox.tester@gmail.com](mailto:42dox.tester@gmail.com).
 

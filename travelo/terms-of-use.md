@@ -1,8 +1,8 @@
 # Travelo Terms of Use
 
-Last updated: 2 November 2026
+Last updated: 4 November 2026
 
-These terms apply when you use Travelo, a travel tracker made by an individual developer who publishes as mendoxe.
+These terms apply when you use Travelo, a travel tracker made by an individual developer who publishes as mendox.
 If you do not agree with them, do not use the app. Nothing here limits the consumer rights you have under the law
 of the country where you live.
 
