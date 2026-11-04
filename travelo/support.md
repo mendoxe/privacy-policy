@@ -16,7 +16,8 @@ Use your phone's own backup and transfer. Travelo has no backup of its own, so m
 before you switch.
 
 **How do I restore my purchase?**
-Open the purchase screen and tap **Restore Purchases**, using the same Apple or Google account you bought with.
+Open the purchase screen and tap **Restore Purchases**, using the same Apple or Google account you bought with. If
+it still does not unlock, email us the **Purchase ID** from the bottom of Settings; tapping it copies it.
 
 **How do I get a refund?**
 Refunds are handled by the store: [Apple](https://support.apple.com/118223) or
