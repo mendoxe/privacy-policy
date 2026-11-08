@@ -1,6 +1,6 @@
 # Travelo Privacy Policy
 
-Last updated: 4 November 2026
+Last updated: 8 November 2026
 
 Travelo is a travel tracker for iOS and Android. It keeps your map, labels and trips on your device. There is no
 Travelo account and no Travelo server.
@@ -50,7 +50,8 @@ Trip names, notes, dates, routes, label names, your home country, your search te
 never sent.
 
 Analytics events are kept for up to one year and are then deleted. Turning analytics off in Settings stops new
-events straight away, but does not delete events already sent.
+events straight away, but does not delete events already sent. It also gives your device a new random ID, so events
+sent if you turn analytics on again are not linked to the earlier ones.
 
 ## Purchases
 
