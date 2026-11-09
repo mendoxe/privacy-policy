@@ -1,10 +1,14 @@
-# Emberline privacy policy
+# Emberline Privacy Policy
 
-Publisher: **Mendoxe**
-Contact: **[42dox.tester@gmail.com](mailto:42dox.tester@gmail.com)**
-Last updated: **10 November 2026**
+Last updated: 10 November 2026
 
 This policy covers the Emberline game.
+
+## Who is responsible
+
+Emberline is made by an individual developer who publishes as mendox. The developer is responsible for the
+processing described here and can be reached at
+[42dox.tester@gmail.com](mailto:42dox.tester@gmail.com).
 
 ## Playing Emberline
 
@@ -38,7 +42,7 @@ Data is processed by the active providers named above to deliver purchases, opti
 
 Providers may process information in countries outside your own under their applicable terms and data-processing safeguards. PostHog's selected project is EU Cloud; this does not mean all providers and subprocessors process all data solely in the EU. Their privacy and data-processing information is linked below. Contact us for information about current retention or to request deletion.
 
-Use Settings to change optional analytics preferences, restore purchases, view this policy and contact support. For access/deletion requests concerning received analytics, contact the publisher above. We will explain what information is needed to locate the relevant data without unnecessarily collecting identifying information. Store transaction records and platform account data may require requests through the respective platform and may have retention requirements. Your rights depend on your location and applicable law.
+Use Settings to change optional analytics preferences, restore purchases, view this policy and contact support. For access/deletion requests concerning received analytics, contact the developer. We will explain what information is needed to locate the relevant data without unnecessarily collecting identifying information. Store transaction records and platform account data may require requests through the respective platform and may have retention requirements. Your rights depend on your location and applicable law.
 
 Emberline is intended for a general audience and is not specifically directed at children. If you believe a child has provided personal information inappropriately, contact us so we can investigate and address it.
 

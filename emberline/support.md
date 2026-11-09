@@ -1,4 +1,4 @@
-# Emberline support
+# Emberline Support
 
 Support contact: **[42dox.tester@gmail.com](mailto:42dox.tester@gmail.com)**
 
@@ -16,4 +16,5 @@ For a problem or suggestion, include your device model, operating-system version
 
 Refunds are managed through the store where you purchased. Include the store/product name when asking for purchase support, but do not post receipts publicly.
 
-Privacy policy: **[Read the privacy policy](privacy-policy.md)**. Publisher: **Mendoxe**.
+See the [privacy policy](privacy-policy.md) and the [terms of use](terms-of-use.md). Emberline is made by an
+individual developer who publishes as mendox.
