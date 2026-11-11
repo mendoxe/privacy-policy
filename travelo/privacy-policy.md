@@ -1,6 +1,6 @@
 # Travelo Privacy Policy
 
-Last updated: 8 November 2026
+Last updated: 11 November 2026
 
 Travelo is a travel tracker for iOS and Android. It keeps your map, labels and trips on your device. There is no
 Travelo account and no Travelo server.
@@ -42,6 +42,8 @@ If you allow them, Travelo sends the following to PostHog, its analytics provide
 - **Device and app details:** device manufacturer, model and type; operating system and version; screen size and
   density; language and time zone; network type and mobile carrier; app name, version and build; whether the app is
   running on an emulator or was sideloaded; and user agent.
+- **Errors:** when part of the app fails, the kind of error, its technical message and where in the app's code it
+  happened, at most once for each kind of error each time the app starts.
 - **Identifiers:** a random ID created by the analytics software on your device, and a session ID. Your IP address
   reaches PostHog when your device connects to it, as it would with any internet service.
 
