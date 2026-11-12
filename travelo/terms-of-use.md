@@ -1,6 +1,6 @@
 # Travelo Terms of Use
 
-Last updated: 4 November 2026
+Last updated: 12 November 2026
 
 These terms apply when you use Travelo, a travel tracker made by an individual developer who publishes as mendox.
 If you do not agree with them, do not use the app. Nothing here limits the consumer rights you have under the law
@@ -10,24 +10,18 @@ of the country where you live.
 
 You may use Travelo for your own personal, non-commercial purposes. Do not copy, resell or reverse engineer the app,
 except where the law allows it. The app is licensed to you, not sold. On iOS, Apple's
-[standard license agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies.
+standard license agreement (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies.
 
 ## Your data
 
 Your map, labels and trips are stored on your device, and you are responsible for them. Deleting the app or losing
-your device can remove them permanently. Do not rely on Travelo as your only copy of important information. See the
-[privacy policy](privacy-policy.md) for how data is handled.
+your device can remove them permanently. Do not rely on Travelo as your only copy of important information.
 
 ## Purchases
 
 Some features need a one-time purchase, made through the App Store or Google Play. The store shows the price and
 what the purchase includes before you pay, and its terms apply to the payment. A purchase is tied to your store
-account, and you can restore it on a new device with the same account by using **Restore Purchases** in the app.
-
-Apple and Google handle refunds under their own rules:
-
-- [Apple refunds](https://support.apple.com/118223)
-- [Google Play refunds](https://support.google.com/googleplay/answer/2479637)
+account. Apple and Google handle refunds under their own rules.
 
 ## Maps and information
 
@@ -51,4 +45,4 @@ Czech law applies to these terms, without taking away the mandatory protections 
 
 ## Contact
 
-[42dox.tester@gmail.com](mailto:42dox.tester@gmail.com)
+42dox.tester@gmail.com
