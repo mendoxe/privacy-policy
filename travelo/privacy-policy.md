@@ -1,6 +1,6 @@
 # Travelo Privacy Policy
 
-Last updated: 12 November 2026
+Last updated: 17 November 2026
 
 Travelo is a travel tracker for iOS and Android. There is no Travelo account and no Travelo server.
 
@@ -13,6 +13,11 @@ processing described here and can be reached at 42dox.tester@gmail.com.
 
 Travelo stores your home country, the countries and regions you mark, your labels, your trips with their details,
 and your settings on your device. None of this is sent to the developer.
+
+If you export your data, Travelo saves the parts you choose as a file and opens your device's share sheet; where the
+file goes is up to you, and Travelo sends it nowhere itself. The file holds your trips and notes as plain text, so
+anyone who gets it can read them. Importing reads only the file you pick and stores its data on your device. While an
+import replaces data, Travelo keeps a copy of the replaced data on your device until the import finishes.
 
 ## Usage analytics
 
